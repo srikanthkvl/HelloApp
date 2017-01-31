@@ -1,2 +1,3 @@
-# HelloApp
-this is the first repository
+Hello World
+
+This is a hello world app
